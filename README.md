@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAGDSQYYrzo/m5-HZ5_0IQWJ6gbJAg0TFg/edit?utm_content=DAGDSQYYrzo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width=" " >
+<img src="./images/cover-image.png" width=" " >
 
 
 # 🏄‍♂️ Ayodeji Ajuwon
