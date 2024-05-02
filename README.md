@@ -25,7 +25,7 @@ As a frontend, backend, and WordPress developer, I'm an independent full-stack a
 <br />
 
 <details>
- <summary style="text-align: left;"><h3>👨‍💻 Ayodeji's Coding Journey</h3></summary>
+ <summary style="text-align: left;">👨‍💻 Ayodeji's Coding Journey</summary>
    In 2021, I embarked on my coding journey, delving into HTML, CSS, JavaScript, WordPress, bootstrap, and later expanding my repertoire to include Ruby on Rails, C, Python, and Java. As a current Computer Science student, I eagerly immerse myself in the intricacies of code, Unix, Linux, and theory, constantly broadening my skill set. Alongside my studies, I adeptly navigate tools like Fireworks, Dreamweaver, Canva, Photoshop, and Visual Studio Code, while also harnessing the power of AWS and Firebase.
 
    My journey began with a youthful zeal, fueled by a desire to explore every facet of the programming universe. Initially drawn to iOS development, my passion shifted towards mastering Java, ultimately securing a full-stack software engineering position upon graduation. However, amidst my professional pursuits.
@@ -35,6 +35,7 @@ As a frontend, backend, and WordPress developer, I'm an independent full-stack a
    So, as I take deliberate steps towards my goal, fueled by determination and ambition, know that I'm committed to reclaiming that sense of discomfort, pushing the boundaries of my creativity, and ultimately, bringing my vision to life. Watch this space, for I'm ready to make my mark once again.
 </details>
 
+
 ---
 
-<!--[website]: http://ayodejiajuwon.free.nf/
+[website]: http://ayodejiajuwon.free.nf/
