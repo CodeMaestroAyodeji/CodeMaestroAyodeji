@@ -1,3 +1,6 @@
+<img src="https://www.canva.com/design/DAGDSQYYrzo/m5-HZ5_0IQWJ6gbJAg0TFg/edit?utm_content=DAGDSQYYrzo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width=" " >
+
+
 # 🏄‍♂️ Ayodeji Ajuwon
 
 **`Code Maestro (Web Developer/Web Designer)`**
@@ -21,7 +24,7 @@ As a frontend, backend, and WordPress developer, I'm an independent full-stack a
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<!--<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />-->
 
 <!--<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />-->
 
@@ -64,11 +67,11 @@ As a frontend, backend, and WordPress developer, I'm an independent full-stack a
 [![Top Paying Companies for Software Engineers](https://ytcards.demolab.com/?id=cIvduLKs5uY&title=Top+Paying+Companies+for+Software+Engineers&lang=en&timestamp=1707058821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32 "Top Paying Companies for Software Engineers")](https://www.youtube.com/watch?v=cIvduLKs5uY)-->
 <!-- END YOUTUBE-CARDS -->
 
-<!--[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+<!--[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)-->
 
 #
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)-->
 
