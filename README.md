@@ -2,8 +2,6 @@
 
 ### Hello World 👋 It's [Ayodeji!](https://github.com/CodeMaestroAyodeji/CodeMaestroAyodeji)
 
-<br/>
-
 
 [![Facebook](https://img.shields.io/badge/-%20-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ayodejiajuwon)
 [![LinkedIn](https://img.shields.io/badge/-%20-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayodeji-ajuwon-b1bb402b9)
@@ -16,13 +14,7 @@
 
 <br />
 
-<br />
-
-Hi,I'm Ayodeji Ajuwon🙌, a Web Developer, Web Designer, WordPress Developer and Internet Enthusiast. Apart from that I love getting involved in Problem Solving.❤✌
-
-
-
-
+Hi, I'm Ayodeji Ajuwon🙌, a Web Developer, Web Designer, WordPress Developer and Internet Enthusiast. Apart from that I love getting involved in Problem Solving.❤✌
 
 **Talking about Personal Stuffs:**
 
@@ -33,7 +25,6 @@ Hi,I'm Ayodeji Ajuwon🙌, a Web Developer, Web Designer, WordPress Developer an
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent [Blogs](#)
 - 📝[Portfolio](https://ayodejiajuwon.free.nf/)
-
 
 
 **Community**
