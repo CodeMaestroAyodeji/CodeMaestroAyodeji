@@ -6,7 +6,7 @@
 
 
 <a href="https://twitter.com/Ayodeji473291">
-<img align="left" alt="Ayodeji Ajuwon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ayodeji Ajuwon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: #1DA1F2;" />
 </a>
 
 <a href="https://www.linkedin.com/in/ayodeji-ajuwon-b1bb402b9/">
@@ -30,7 +30,7 @@
 Hi,I'm Ayodeji Ajuwon🙌, a Web Developer, Web Designer, WordPress Developer and Internet Enthusiast. Apart from that I love getting involved in Problem Solving.❤✌
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
 
 
 **Talking about Personal Stuffs:**
