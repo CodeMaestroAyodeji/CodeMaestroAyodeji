@@ -1,39 +1,80 @@
 <img src="./images/cover-image.png" width="100%">
 
-# 🏄‍♂️ Ayodeji Ajuwon
+### Hello World 👋 It's [Ayodeji!](https://github.com/CodeMaestroAyodeji/CodeMaestroAyodeji)
 
-**`Code Maestro (Web Developer/Web Designer)`**
+<br/>
 
-As a frontend, backend, and WordPress developer, I'm an independent full-stack artisan and digital architect, sculpting my vision of the online realm with meticulous care. From conceptualization to execution, I breathe life into coding projects, weaving intricate solutions for real-world challenges. Every line of code is a stroke of creativity, meticulously crafted to deliver seamless user experiences.
 
----
+<a href="https://twitter.com/Ayodeji473291">
+<img align="left" alt="Ayodeji Ajuwon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-### 🧰 Languages and Tools
+<a href="https://www.linkedin.com/in/ayodeji-ajuwon-b1bb402b9/">
+<img align="left" alt="Ayodeji Ajuwon | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<a href="https://www.instagram.com/ajuwonayodeji/">
+<img align="left" alt="Ayodeji Ajuwon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="#">
+<img align="left" alt="Ayodeji Ajuwon | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<a href="#">
+<img align="left" alt="Ayodeji Ajuwon | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<br />
 
 <br />
----
-<details>
- <summary> <h3>👨‍💻 Ayodeji's Coding Journey ...</h3></summary>
-   In 2021, I embarked on my coding journey, delving into HTML, CSS, JavaScript, WordPress, bootstrap, and later expanding my repertoire to include Ruby on Rails, C, Python, and Java. As a current Computer Science student, I eagerly immerse myself in the intricacies of code, Unix, Linux, and theory, constantly broadening my skill set. Alongside my studies, I adeptly navigate tools like Fireworks, Dreamweaver, Canva, Photoshop, and Visual Studio Code, while also harnessing the power of AWS and Firebase.
 
-   My journey began with a youthful zeal, fueled by a desire to explore every facet of the programming universe. Initially drawn to iOS development, my passion shifted towards mastering Java, ultimately securing a full-stack software engineering position upon graduation. However, amidst my professional pursuits.
+Hi,I'm Ayodeji Ajuwon🙌, a Web Developer, Web Designer, WordPress Developer and Internet Enthusiast. Apart from that I love getting involved in Problem Solving.❤✌
 
-   Yet, amidst my success, a nagging sense of unfulfilled ambition lingered. I had forsaken my dream of developing my own app for the comfort of stability. Now, propelled by an insatiable hunger to challenge myself once more, I'm poised to reignite that dormant aspiration. By streamlining my YouTube content creation process, I aim to carve out the time needed to pursue my long-held dream. With a clear vision and strategic planning, I'm primed to embark on this journey, setting my sights on realizing my dream by 2025.
 
-   So, as I take deliberate steps towards my goal, fueled by determination and ambition, know that I'm committed to reclaiming that sense of discomfort, pushing the boundaries of my creativity, and ultimately, bringing my vision to life. Watch this space, for I'm ready to make my mark once again.
-</details>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
----
 
-[Visit my website](http://ayodejiajuwon.free.nf/)
+**Talking about Personal Stuffs:**
+
+- 🔭 I’m currently a student at University of the People, US.
+- 🌱 I’m currently Computer Science.
+- 👯 Part of Developer Community.
+- 💬 Ask me about anything , Would love to answer them.✌
+- 📫 How to reach me: Any of the Social-Media Platform 
+- ⚡ Check out my recent [Blogs](#)
+- 📝[Portfolio](https://ayodejiajuwon.free.nf/)
+
+
+
+**Community**
+- Dev Community
+- FreeCodeCamp
+
+**Languages and Tools:**
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+![Ayodeji's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
