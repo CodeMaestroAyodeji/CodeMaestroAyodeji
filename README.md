@@ -19,7 +19,7 @@ Hi, I'm Ayodeji Ajuwon🙌, a Web Developer, Web Designer, WordPress Developer a
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently a student at University of the People, US.
-- 🌱 I’m currently Computer Science.
+- 🌱 I’m currently studying Computer Science.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
