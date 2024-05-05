@@ -22,7 +22,7 @@ Hi, I'm Ayodeji Ajuwon🙌, a Web Developer, Web Designer, WordPress Developer a
 - 🌱 I’m currently studying Computer Science.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
+- 📫 How to reach me: Any of the Social-Media Platforms 
 - ⚡ Check out my recent [Blogs](#)
 - 📝[Portfolio](https://ayodejiajuwon.free.nf/)
 
