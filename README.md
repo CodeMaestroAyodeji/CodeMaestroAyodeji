@@ -30,6 +30,7 @@ Hi, I'm Ayodeji Ajuwon🙌, a Web Developer, Web Designer, WordPress Developer a
 **Community**
 - Dev Community
 - FreeCodeCamp
+- The Odin Community
 
 **Languages and Tools:**
 
